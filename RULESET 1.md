@@ -41,7 +41,7 @@ A Proposal is followed by a poll of the same name posted by the same Player, wit
 If a Proposal's poll has more YES votes than NO votes when it closes, it "passes", i.e. it is effective, and the Player who posted it gains 5 Points. 
 If the vote is unanimous, they gain an additional 5 Points. Each Player who votes on a Proposal's poll gains 1 Point when it closes. 
 
-~~You are not allowed to edit a proposal after adding a corresponding poll.~~ If a proposal is edited after a Corresponding poll, the poster of the proposal must explicitly inform the poll has been changed and replace the faulty poll with a new one.
+You are not allowed to edit a proposal after adding a corresponding poll. If a proposal is edited after a Corresponding poll, the poster of the proposal must explicitly inform the poll has been changed and replace the faulty poll with a new one.
 Failure to do so will deduct five points per day the faulty poll is up from the player who put forward the proposal. 
 
 Once you have posted a proposal, you must wait a minimum of thirty minutes (max twelve hours) before posting its poll. During this time, any clarifying questions can be asked, and any edits can be made. 
