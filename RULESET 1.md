@@ -24,16 +24,7 @@ Given their explicit consent, the Player whose name was iterated most frequently
 Should a @Bookkeeper meet the win condition per Rule "PLAYERS AND POINTS", they do not win. 
 
 
-### 4. TRANSFER OF POINTS 
-
-All rules pertaining to the transfer of points should be posted under this rule.
-
-If both players consent, points can be transferred from one player to another. 
-You can only receive points from another player once per day. 
-The transfer of points only takes place if it is announced in a proposed new “Transactions” text chat in the Sunnfolk Nomics discord server, and the transaction is approved by a bookkeeper. 
-
-
-### 5. PROPOSALS (P)
+### 4. PROPOSALS (P)
 
 A message posted in #proposals, following the format below, is a Proposal; 
 ``` 
@@ -50,13 +41,16 @@ A Proposal is followed by a poll of the same name posted by the same Player, wit
 If a Proposal's poll has more YES votes than NO votes when it closes, it "passes", i.e. it is effective, and the Player who posted it gains 5 Points. 
 If the vote is unanimous, they gain an additional 5 Points. Each Player who votes on a Proposal's poll gains 1 Point when it closes. 
 
+~~You are not allowed to edit a proposal after adding a corresponding poll.~~ If a proposal is edited after a Corresponding poll, the poster of the proposal must explicitly inform the poll has been changed and replace the faulty poll with a new one.
+Failure to do so will deduct five points per day the faulty poll is up from the player who put forward the proposal. 
+
 Once you have posted a proposal, you must wait a minimum of thirty minutes (max twelve hours) before posting its poll. During this time, any clarifying questions can be asked, and any edits can be made. 
 You cannot edit a proposal after its poll has been posted.
 
 If a player votes on their own proposal poll, their own vote is invalid and a penalty of 1 point is deducted from their total
 
 
-### 6. DECK OF CARDS 
+### 5. DECK OF CARDS 
 
 The Deck contains a list of Cards. 
 A Card follows the following format: 
@@ -69,7 +63,7 @@ A Card's number is 1 higher than the preceding card and the lowest is 1.
 No two Cards have the same name. 
 
 
-### 7. PLAYS AND HANDS
+### 6. PLAYS AND HANDS
 
 When a Player states their intent in #play to perform one of the Plays listed below, the Play's effects are executed. 
 Should not all of its effects be executed, none are. 
@@ -89,7 +83,7 @@ That Card's effect, as described in the Deck, is fulfilled, and it is removed fr
 Specify a number of Points or Cards in your Hand, which you lose and a player of your choice receives.
 
 
-### 9. KLARK 
+### 7. KLARK 
 
 This is Klark. 
 He counts as a Player for all intents and purposes. 
