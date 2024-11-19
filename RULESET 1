@@ -1,14 +1,14 @@
-SUNNFOLK NOMIC 1st RULESET 
+# SUNNFOLK NOMIC 1st RULESET 
 
 
-1. RULES (R)
+### 1. RULES (R)
 
 Each Rule is named with the following format: `[natural number]. [name]`. 
 Should a Rule contradict another, the Rule named with the lowest number takes precedence. 
 No two Rules have the same number or name. 
 
 
-2. PLAYERS AND POINTS
+### 2. PLAYERS AND POINTS
 
 A Player is someone who consents to being a Player and is recorded in #players along with their Point balance. 
 
@@ -16,7 +16,7 @@ A Player's Point balance is a whole number, initially 0.
 The first Player to reach 100 Points wins the game. 
 
 
-3. BOOKKEEPERS AND ELECTIONS 
+### 3. BOOKKEEPERS AND ELECTIONS 
 
 A @Bookkeeper enforces the Rules. 
 From the moment a Player calls for an Election in #play, Players have 12 hours to reply to it with the name of one Player. 
@@ -24,7 +24,7 @@ Given their explicit consent, the Player whose name was iterated most frequently
 Should a @Bookkeeper meet the win condition per Rule "PLAYERS AND POINTS", they do not win. 
 
 
-4. TRANSFER OF POINTS 
+### 4. TRANSFER OF POINTS 
 
 All rules pertaining to the transfer of points should be posted under this rule.
 
@@ -33,7 +33,7 @@ You can only receive points from another player once per day.
 The transfer of points only takes place if it is announced in a proposed new “Transactions” text chat in the Sunnfolk Nomics discord server, and the transaction is approved by a bookkeeper. 
 
 
-5. PROPOSALS (P)
+### 5. PROPOSALS (P)
 
 A message posted in #proposals, following the format below, is a Proposal; 
 ``` 
@@ -56,7 +56,7 @@ You cannot edit a proposal after its poll has been posted.
 If a player votes on their own proposal poll, their own vote is invalid and a penalty of 1 point is deducted from their total
 
 
-6. DECK OF CARDS 
+### 6. DECK OF CARDS 
 
 The Deck contains a list of Cards. 
 A Card follows the following format: 
@@ -69,7 +69,7 @@ A Card's number is 1 higher than the preceding card and the lowest is 1.
 No two Cards have the same name. 
 
 
-7. PLAYS AND HANDS
+### 7. PLAYS AND HANDS
 
 When a Player states their intent in #play to perform one of the Plays listed below, the Play's effects are executed. 
 Should not all of its effects be executed, none are. 
@@ -89,10 +89,11 @@ That Card's effect, as described in the Deck, is fulfilled, and it is removed fr
 Specify a number of Points or Cards in your Hand, which you lose and a player of your choice receives.
 
 
-9. KLARK 
+### 9. KLARK 
 
 This is Klark. 
 He counts as a Player for all intents and purposes. 
 Klark likes flowers and HATES the rich. 
 when this proposal resolves and at the end of every week (sunday 23:59) Klark steals 10 points from the player with the most points and gives it to the person with the least points. 
 If multiple people share the last place the points are splittend evenly rounded down
+
