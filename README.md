@@ -8,4 +8,4 @@ a proposal can be anything from "i win now" to "there's an item shop and u can b
 
 the purpose is to play, experiment, and design a game *while* playing it (or if u wanna win, find loopholes and break the game to your favor). 
 
-there's no requirement to actually participate (yet), so it's entirely possible to join the server just to check it out or watch from the sidelines. the game can last all from 3 minutes to 30 years, and will progress however fast we want. do nothing, everything, anything! 
+there's no requirement to actually participate, so it's entirely possible to join the server just to check it out or watch from the sidelines. the game can last all from 3 minutes to 30 years, and will progress however fast we want. do nothing, everything, anything! 
