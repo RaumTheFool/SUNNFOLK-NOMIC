@@ -13,7 +13,7 @@ No two Rules have the same number or name.
 A Player is someone who consents to being a Player and is recorded in #players along with their Point balance. 
 
 A Player's Point balance is a whole number, initially 0. 
-The first Player to reach 100 Points wins the game. 
+The first Player to reach 200 Points wins the game. 
 
 
 ### 3. BOOKKEEPERS AND ELECTIONS 
@@ -26,28 +26,25 @@ Should a @Bookkeeper meet the win condition per Rule "PLAYERS AND POINTS", they 
 
 ### 4. PROPOSALS (P)
 
-A message posted in #proposals, following the format below, is a Proposal; 
-``` 
-Proposal [natural number]
+The game alternates between three Phases: 
+1. The Proposal Phase (PP), 
+2. The Voting Phase (VP), and 
+3. The Interpretation Phase (IP) 
 
-[Changes described here are applied to the Ruleset or gamestate.]
-``` 
+Each Phase begins at 07:00 and ends at 23:00. The game is paused in-between Phases, which is called Void Time. 
+
+- THE PROPOSAL PHASE 
+An unedited message posted in #proposals during the PP, following the format below, is a Proposal; 
+```PROPOSAL [natural number]
+
+[Changes described here are applied to the game.]``` 
 A Proposal's number is 1 higher than the one preceding it. 
-A Proposal that is edited contains an addendum with /slash brackets/ explaining why it was edited. 
-Text in slash brackets have no legal effects.
 
-A Proposal is followed by a poll of the same name posted by the same Player, with the options "YES" and "NO" and a time limit of minimum 24 hours. 
+- THE VOTING PHASE 
+A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
-If a Proposal's poll has more YES votes than NO votes when it closes, it "passes", i.e. it is effective, and the Player who posted it gains 5 Points. 
-If the vote is unanimous, they gain an additional 5 Points. Each Player who votes on a Proposal's poll gains 1 Point when it closes. 
-
-You are not allowed to edit a proposal after adding a corresponding poll. If a proposal is edited after a Corresponding poll, the poster of the proposal must explicitly inform the poll has been changed and replace the faulty poll with a new one.
-Failure to do so will deduct five points per day the faulty poll is up from the player who put forward the proposal. 
-
-Once you have posted a proposal, you must wait a minimum of thirty minutes (max twelve hours) before posting its poll. During this time, any clarifying questions can be asked, and any edits can be made. 
-You cannot edit a proposal after its poll has been posted.
-
-If a player votes on their own proposal poll, their own vote is invalid and a penalty of 1 point is deducted from their total
+- THE INTERPRETATION PHASE 
+When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points. 
 
 
 ### 5. DECK OF CARDS 
