@@ -70,16 +70,16 @@ Should not all of its effects be executed, none are.
 If a Play's effect contradicts the effect of a Card it interacts with, the Card takes precedence. 
 A Player's Hand is a list of Cards below their name in #hands. 
 
-- Draw Card
+- Draw Card: 
 Lose 5 Points. 
 A natural number from 1 to [the number of the highest numbered Card] is randomly generated. 
 The corresponding Card's name is added to your Hand. 
 
-- Use Card
+- Use Card: 
 Specify a Card in your Hand. 
 That Card's effect, as described in the Deck, is fulfilled, and it is removed from your Hand. 
 
-- Transfer
+- Transfer: 
 Specify a number of Points or Cards in your Hand, which you lose and a player of your choice receives.
 
 
