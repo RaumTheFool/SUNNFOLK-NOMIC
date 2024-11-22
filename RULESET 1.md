@@ -34,6 +34,7 @@ The game alternates between three Phases:
 Each Phase begins at 07:00 and ends at 23:00. The game is paused in-between Phases, which is called Void Time. 
 
 - THE PROPOSAL PHASE 
+
 An unedited message posted in #proposals during the PP, following the format below, is a Proposal;
 ```
 PROPOSAL [natural number]
@@ -43,9 +44,11 @@ PROPOSAL [natural number]
 A Proposal's number is 1 higher than the one preceding it. 
 
 - THE VOTING PHASE 
+
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
 - THE INTERPRETATION PHASE 
+
 When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points. 
 
 
