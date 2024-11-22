@@ -78,7 +78,8 @@ A Player's Hand is a list of Cards below their name in #hands.
 - **Draw Card**: 
 Lose 5 Points. 
 A natural number from 1 to [the number of the highest numbered Card] is randomly generated. 
-The corresponding Card's name is added to your Hand. 
+The corresponding Card's name is added to your Hand.
+This cannot be done if you have less than 5 points. 
 
 - **Use Card**: 
 Specify a Card in your Hand. 
