@@ -7,6 +7,12 @@ Each Rule is named with the following format: `[natural number]. [name]`.
 Should a Rule contradict another, the Rule named with the lowest number takes precedence. 
 No two Rules have the same number or name. 
 
+- Text in (parentheses) provides an abbreviation. 
+- Text in \*italics* describes an event. 
+- Text in /slash brackets/ has no legal effect. 
+- Text in \`\`\`code blocks\`\`\`/\`code blocks` provides a format or quote. 
+- Text in [square brackets] is a placeholder.
+
 
 ### 2. PLAYERS AND POINTS
 
@@ -33,8 +39,7 @@ The game alternates between three Phases:
 
 Each Phase begins at 07:00 and ends at 23:00. The game is paused in-between Phases, which is called Void Time. 
 
-- THE PROPOSAL PHASE 
-
+- **THE PROPOSAL PHASE**: 
 An unedited message posted in #proposals during the PP, following the format below, is a Proposal;
 ```
 PROPOSAL [natural number]
@@ -43,12 +48,10 @@ PROPOSAL [natural number]
 ```
 A Proposal's number is 1 higher than the one preceding it. 
 
-- THE VOTING PHASE 
-
+- **THE VOTING PHASE**: 
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
-- THE INTERPRETATION PHASE 
-
+- **THE INTERPRETATION PHASE**: 
 When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points. 
 
 
@@ -67,7 +70,7 @@ No two Cards have the same name.
 
 ### 6. PLAYS AND HANDS
 
-When a Player states their intent in #play to perform one of the Plays listed below, the Play's effects are executed. 
+When a Player states their intent in #play to perform one of the Plays listed below, which they have performed 0 times this Phase, the Play's effects are executed. 
 Should not all of its effects be executed, none are. 
 If a Play's effect contradicts the effect of a Card it interacts with, the Card takes precedence. 
 A Player's Hand is a list of Cards below their name in #hands. 
