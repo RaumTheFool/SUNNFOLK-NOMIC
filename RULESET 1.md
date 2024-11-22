@@ -72,24 +72,26 @@ Should not all of its effects be executed, none are.
 If a Play's effect contradicts the effect of a Card it interacts with, the Card takes precedence. 
 A Player's Hand is a list of Cards below their name in #hands. 
 
-- Draw Card: 
+- **Draw Card**: 
 Lose 5 Points. 
 A natural number from 1 to [the number of the highest numbered Card] is randomly generated. 
 The corresponding Card's name is added to your Hand. 
 
-- Use Card: 
+- **Use Card**: 
 Specify a Card in your Hand. 
 That Card's effect, as described in the Deck, is fulfilled, and it is removed from your Hand. 
 
-- Transfer: 
+- **Transfer**: 
 Specify a number of Points or Cards in your Hand, which you lose and a player of your choice receives.
+
+- **Transact**: 
+Specify a number of Points and/or Cards you wish to sell from your Hand, or buy from another Player's Hand. If, within the current Phase, another Player has responded by specifying a number of Points and/or Cards in their Hand, and you have consented to the Transaction, 
+\- You receive, and they lose, what they specified, and 
+\- They receive, and you lose, what you specified. 
 
 
 ### 7. KLARK 
 
-This is Klark. 
-He counts as a Player for all intents and purposes. 
-Klark likes flowers and HATES the rich. 
-when this proposal resolves and at the end of every week (sunday 23:59) Klark steals 10 points from the player with the most points and gives it to the person with the least points. 
-If multiple people share the last place the points are splittend evenly rounded down
-
+Klark is a Player. /He likes flowers and HATES the rich./ 
+Every IP, the Player with the fewest Points gains 10 and the Player with the most loses 10. 
+Ties are resolved randomly.
