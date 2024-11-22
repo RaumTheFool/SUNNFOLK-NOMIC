@@ -34,10 +34,12 @@ The game alternates between three Phases:
 Each Phase begins at 07:00 and ends at 23:00. The game is paused in-between Phases, which is called Void Time. 
 
 - THE PROPOSAL PHASE 
-An unedited message posted in #proposals during the PP, following the format below, is a Proposal; 
-```PROPOSAL [natural number]
+An unedited message posted in #proposals during the PP, following the format below, is a Proposal;
+```
+PROPOSAL [natural number]
 
-[Changes described here are applied to the game.]``` 
+[Changes described here are applied to the game.]
+```
 A Proposal's number is 1 higher than the one preceding it. 
 
 - THE VOTING PHASE 
