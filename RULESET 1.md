@@ -99,3 +99,14 @@ Specify a number of Points and/or Cards you wish to sell from your Hand, or buy 
 Klark is a Player. /He likes flowers and HATES the rich./ 
 Every IP, the Player with the fewest Points gains 10 and the Player with the most loses 10. 
 Ties are resolved randomly.
+
+Every player has a Klark Affection (KA) score that starts at 0. 
+If you give Points to Klark his affection for you increases. 1 Point = 1 KA.
+At the end of the game, 1 random Player with the highest KA score marries Klark. <3 
+Simultaneously, 1 random Player with the lowest KA score becomes Klark's nemesis. 
+
+### 8. TRIP TRAP
+
+If you document yourself and two or more players taking a walk outside with a picture, all of you earn five points each. 
+The picture must be posted in the play chat along with the names of the players who went along on the trip. 
+This counts as a play. A player can only claim five points per day from this play.
