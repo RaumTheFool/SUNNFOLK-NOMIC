@@ -47,6 +47,7 @@ PROPOSAL [natural number]
 [Changes described here are applied to the game.]
 ```
 A Proposal's number is 1 higher than the one preceding it. 
+An edited message is considered a Proposal if Bookkeepers deem it to have been edited in good faith.
 
 - **THE VOTING PHASE**: 
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
@@ -66,6 +67,9 @@ A Card follows the following format:
  
 A Card's number is 1 higher than the preceding card and the lowest is 1. 
 No two Cards have the same name. 
+
+Players cannot gain more Cards if they have reached their max hand size
+All players have a max hand size of 5.
 
 
 ### 6. PLAYS AND HANDS
