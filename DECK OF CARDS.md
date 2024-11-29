@@ -59,3 +59,31 @@ When played, give klark 25 points.
 
 20. Klark's Agenda: 
 The player who plays this card picks a player, klark will then take 10 points from that player
+
+21. NEGATIVE PRISM:
+Whilst in hand:
+Any change in points will be multiplied by -1. This only applies to points earned/lost to card effects.
+
+22. HORNED SKULL: 
+Whilst in hand:
+Any points gained by the holder through card effects will be multiplied by x4, but every time this modifier is applied there is a 1/4 chance of loosing 50 points. If the player has less than 50 points, their score will be set to zero.
+
+23. GIFT OF GUIDANCE: 
+when played:
+Pick a card of your choosing from the deck, then give another player that card.
+
+24. PEEP THE HORROR:
+When played:
+A random player looses up to 30 points. Every other player gains 15 points.
+
+25. THE PLAGUE:
+When added to hand:
+The player who got this card looses up to 10 points.
+When played:
+Roll a random number between 1 and 3. If it’s a one, destroy this card. Otherwise give this card to another player of your choosing.
+
+26. MR GREEN:
+Play this card as a reaction to a random event. You may choose the outcome of that event.
+
+27. WET EGG:
+When used roll 1-2. If 1 a player of your choosing has to give you 20 points, but they gain the card. If 2 this card is destroyed
