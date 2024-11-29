@@ -20,6 +20,8 @@ A Player is someone who consents to being a Player and is recorded in #players a
 
 A Player's Point balance is a whole number, initially 0. 
 The first Player to reach 200 Points wins the game. 
+Klark needs 500 Points to win. 
+Klark Devotees win if klark wins, and cannot win any other way.
 
 
 ### 3. BOOKKEEPERS AND ELECTIONS 
@@ -53,7 +55,9 @@ An edited message is considered a Proposal if Bookkeepers deem it to have been e
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
 - **THE INTERPRETATION PHASE**: 
-When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points. 
+When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points.
+
+Proposals that affect Klark primarily, or that directly mention Klark, require a ratio of 75👍/25👎 or more to pass.
 
 
 ### 5. DECK OF CARDS 
@@ -69,7 +73,9 @@ A Card's number is 1 higher than the preceding card and the lowest is 1.
 No two Cards have the same name. 
 
 Players cannot gain more Cards if they have reached their max hand size
-All players have a max hand size of 5.
+All players have a max hand size of 5. Klark Devotees have a max hand size of 3.
+
+If a Klark Mutinee has one or more cards held in hand with Klark in the title, they lose those cards and gain 10 points per card lost. If they draw a card with Klark in the title, they do not obtain it and may roll again for free.
 
 
 ### 6. PLAYS AND HANDS
@@ -83,7 +89,8 @@ A Player's Hand is a list of Cards below their name in #hands.
 Lose 5 Points. 
 A natural number from 1 to [the number of the highest numbered Card] is randomly generated. 
 The corresponding Card's name is added to your Hand.
-This cannot be done if you have less than 5 points. 
+This cannot be done if you have less than 5 points.
+Klark Mutinees gain the opportunity to perform an additional draw, still costing 5 points, if their previous card was played to affect Klark.
 
 - **Use Card**: 
 Specify a Card in your Hand. 
