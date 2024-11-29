@@ -21,6 +21,7 @@ A Player is someone who consents to being a Player and is recorded in #players a
 A Player's Point balance is a whole number, initially 0. 
 The first Player to reach 200 Points wins the game. 
 Klark needs 500 Points to win. 
+Klark Mutinees need 100 Points to win. 
 Klark Devotees win if klark wins, and cannot win any other way.
 
 
