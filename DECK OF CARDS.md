@@ -87,3 +87,17 @@ Play this card as a reaction to a random event. You may choose the outcome of th
 
 27. WET EGG:
 When used roll 1-2. If 1 a player of your choosing has to give you 20 points, but they gain the card. If 2 this card is destroyed
+
+28. TURNIP:
+Gain 4 Points
+
+29. DEADLY THORNS:
+Play this only as a reaction to being targeted by a card.
+The player who targeted you loses 15 Points
+
+30. SWIFTFOOT BOOTS:
+Whilst in hand: You cannot be the target of other card effects
+
+31. PIECE OF EXODIA:
+If this is the Fifth time you've played this card win the game, otherwise no effect.
+
