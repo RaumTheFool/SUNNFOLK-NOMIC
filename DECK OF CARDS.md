@@ -101,3 +101,6 @@ Whilst in hand: You cannot be the target of other card effects
 31. Piece Of Exodia:
 If this is the Fifth time you've played this card win the game, otherwise no effect.
 
+32. AI Whoopsiedoodle:
+Instigate the effect of the "AI Copilot" Rule. 
+
