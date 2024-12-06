@@ -122,3 +122,6 @@ Simultaneously, 1 random Player with the lowest KA score becomes Klark's nemesis
 If you document yourself and two or more players taking a walk outside with a picture, all of you earn five points each. 
 The picture must be posted in the play chat along with the names of the players who went along on the trip. 
 This counts as a play. A player can only claim five points per day from this play.
+
+### 9. A.I. COPILOT
+At the end of every second IP: the current rules will be shown to chatgpt, whom will be asked to make a suggestion for a rule to be added. This rule will come to pass without a vote.
