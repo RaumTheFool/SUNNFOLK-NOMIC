@@ -57,7 +57,6 @@ A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote.
 
 - **THE INTERPRETATION PHASE**: 
 When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points.
-
 Proposals that affect Klark primarily, or that directly mention Klark, require a ratio of 75👍/25👎 or more to pass.
 
 
