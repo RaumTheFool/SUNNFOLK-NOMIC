@@ -125,3 +125,23 @@ This counts as a play. A player can only claim five points per day from this pla
 
 ### 9. A.I. COPILOT
 At the end of every second IP: the current rules will be shown to chatgpt, whom will be asked to make a suggestion for a rule to be added. This rule will come to pass without a vote.
+
+### 10. THE KLARK ECONOMY (TKE)
+
+Klark's influence on the game expands to include his own economy. 
+
+- KLARK CURRENCY (KC): Klark introduces his own currency, *Klark Coin* (KC). Players may acquire KC by donating Points to Klark at a 1:1 exchange rate. KC is tracked separately from Points in #players. 
+
+- SPENDING KC: 
+Players may spend KC during the Proposal Phase (PP) for special effects: 
+  - **Klark’s Blessing** (5 KC): Gain 10 Points. 
+  - **Klark's Wrath** (10 KC): Select a Player; they lose 10 Points. 
+  - **Klark's Gift** (15 KC): Draw a Card from the Deck without losing Points. 
+
+- KLARK DEVOTEES:
+Klark Devotees receive a 20% discount on all KC purchases but cannot gain Points by spending KC.
+
+- BALANCE AND CHAOS:
+At the end of each Interpretation Phase (IP), Klark randomly gives 1-10 KC to one Player and takes 1-10 KC from another.
+
+With this Rule, Klark becomes a central figure in the economy, encouraging strategic alliances and rivalries.
