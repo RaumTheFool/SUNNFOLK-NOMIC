@@ -80,10 +80,10 @@ If a Klark Mutinee has one or more cards held in hand with Klark in the title, t
 
 ### 6. PLAYS AND HANDS
 
-When a Player states their intent in #play to perform one of the Plays listed below, which they have performed 0 times this Phase, the Play's effects are executed. 
+When a Player states their intent in #play to perform one of the Plays listed below during a Phase, which they have performed 0 times this Phase, the Play's effects are executed. 
 Should not all of its effects be executed, none are. 
 If a Play's effect contradicts the effect of a Card it interacts with, the Card takes precedence. 
-A Player's Hand is a list of Cards below their name in #hands. 
+A Player's Hand is a list of Cards below their name in #players. 
 
 - **Draw Card**: 
 Lose 5 Points. 
