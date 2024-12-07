@@ -1,10 +1,10 @@
-### PLAYERS
+# PLAYERS
 
 [Player] / [Points] - [Klark Affection]
 [Hand]
 
 
-# BOOKKEEPERS
+### BOOKKEEPERS
 
 Håkon / 20
 Curbstomp
@@ -18,12 +18,12 @@ Leon / 0
 Jackpot 7s
 
 
-# KLARK
+### KLARK
 
 Klark / 45
 
 
-# DEVOTEES 
+### DEVOTEES 
 
 Magnus / 35 - 25
 Joker
@@ -43,7 +43,7 @@ Third Hand
 Sigve / 25
 
 
-# MUTINEES 
+### MUTINEES 
 
 Ask / 20
 Bouquet 
@@ -61,7 +61,7 @@ Yuno / 15
 The Gambler's Crown
 
 
-# INDECISIVES 
+### INDECISIVES 
 
 Anna / 20
 
