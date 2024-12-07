@@ -17,7 +17,7 @@ Klark / 45
 
 ### DEVOTEES 
 
-Magnus / 35 - 25 / Joker, Bouquet, Grab-O-Matic
+Magnus / 35 - 25 / Joker, Bouquet, Prophet
 
 May / 10 / Klark's Delight, Grab-O-Matic, The Plague
 
