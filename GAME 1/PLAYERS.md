@@ -7,15 +7,15 @@
 ### BOOKKEEPERS
 
 Håkon / 15
-Curbstomp
-Third Hand
-Wet Egg
-Peep the Horror 
-Grab-O-Matic
+  Curbstomp
+  Third Hand
+  Wet Egg
+  Peep the Horror 
+  Grab-O-Matic
 
 Leon / 0
-10kr 
-Jackpot 7s
+  10kr 
+  Jackpot 7s
 
 
 ### KLARK
