@@ -10,7 +10,6 @@ Håkon / 20
 Curbstomp
 Third Hand
 Wet Egg
-Mr. Green
 Peep the Horror 
 
 Leon / 0
@@ -53,7 +52,7 @@ Ludvig 400 / 30
 Third Hand
 Bouquet
 Smack
-Swiftfoot Boots
+Prophet
 
 Ludvig 1000 / 35
 
