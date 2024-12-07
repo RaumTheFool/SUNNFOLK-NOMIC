@@ -49,11 +49,11 @@ Ask / 20
 Bouquet 
 Mr. Green
 
-Ludvig 400 / 35
+Ludvig 400 / 30
 Third Hand
 Bouquet
-Prophet
 Smack
+Swiftfoot Boots
 
 Ludvig 1000 / 35
 
