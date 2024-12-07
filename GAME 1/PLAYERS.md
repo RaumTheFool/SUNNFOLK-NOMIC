@@ -6,11 +6,12 @@
 
 ### BOOKKEEPERS
 
-Håkon / 20
+Håkon / 15
 Curbstomp
 Third Hand
 Wet Egg
 Peep the Horror 
+Grab-O-Matic
 
 Leon / 0
 10kr 
@@ -36,8 +37,9 @@ The Plague
 
 Maya / 20
 
-Runa / 15
+Runa / 10
 Third Hand
+Gift of Guidance
 
 Sigve / 25
 
