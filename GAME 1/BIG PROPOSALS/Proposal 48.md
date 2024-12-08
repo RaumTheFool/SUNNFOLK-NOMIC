@@ -159,8 +159,9 @@ A Card follows the following format:
 A Card's number is 1 higher than the preceding card and the lowest is 1. 
 No two Cards have the same name. 
 
-During the VP, if a @Player states their intent to draw a Card in #plays, they lose 5 Peas, a random number from 1 to [the highest Card number] is generated, and the corresponding Card is added to their Hand. 
-If a Mutinee or Devotee have respectively 5 or 3 Cards, they cannot gain Cards. 
+During the VP, if a @Player states their intent to "draw a Card" in #plays, they lose 5 Peas, a random number from 1 to [the highest Card number] is generated, and the corresponding Card is added to their Hand. 
+During the VP, if a @Player states their intent to "discard" a Card from their Hand, it is removed from their Hand. 
+If a Mutinee, Bookkeeper or Devotee has respectively 5, 4 or 3 Cards, they cannot gain Cards. 
 If not all of a Card's effects are executed, none are. 
 If a Card's effect contradicts with a clause in the Ruleset, the Rules take precedence. 
 
