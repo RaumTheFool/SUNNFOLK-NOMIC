@@ -5,7 +5,7 @@ PROPOSAL 48
 
 *Grant Magnus the role @Prophet, Ludvig 400 the role @Archangel and Håkon the role @Wizard.*
 *Rename the Card **Prophet** to **Prophecy**.* 
-*Rename the private channel #bookkeeping to #bookkeepers and create the public channel #bookkeeping.*
+*Create the public channel #bookkeeping.*
 *Rename #plays to #play.*
 *Rewrite the Ruleset to read:*
 
@@ -57,6 +57,7 @@ A @Player meets the following criteria:
 - Is recorded in #players. 
 - Has a Pea balance in #players. 
 - Has a Klark Coin (KC) balance in #players. 
+
 A @Player's Peas and KC balance are whole numbers and initially 0. 
 
 
@@ -73,7 +74,6 @@ If no winner(s) is/are determined within December 24., the game ends.
 
 A clause is true when a @Bookkeeper interprets it. 
 All means of changing the Rules are defined within this Rule. 
-Proposals are the only means of changing the Rules. 
 
 The game cycles through three Phases: 
 1. The Proposal Phase (PP), 
@@ -84,6 +84,7 @@ Each Phase begins at 07:00 and ends at 23:00.
 Void Time is a period without a Phase, during which the Rules are inactive unless stated otherwise. 
 
 - **THE PROPOSAL PHASE**: 
+
 The first @Bookkeeper to post "PP" in #bookkeeping gains 5 Peas. 
 A message which is posted in #proposals during the PP and not edited outside the PP, following the format below, is a Proposal;
 ```
@@ -94,25 +95,27 @@ PROPOSAL [natural number]
 A Proposal's number is 1 higher than the one preceding it, initially 1. 
 
 - **THE VOTING PHASE**: 
+
 The first @Bookkeeper to post "VP" in #bookkeeping gains 5 Peas. 
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
 - **THE INTERPRETATION PHASE**: 
+
 If a Proposal from the previous PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 10 Peas. 
-Otherwise, its poster gains 5 Peas. 
 Proposals that mention Klark require a ratio of 75👍/25👎 or more to pass. 
+A random Player gains 10 Klark Coins and another who has more than 0 loses up to 10 Klark Coins.
 A @Bookkeeper provides their ChatGPT with the following prompt: 
 ```
 Follow the Rules, assume the role of Klark and write a Proposal per R **BOOKKEEPING**; 
 
 [The Ruleset] 
 ```
-Its response has the header **KLARK'S PROPOSAL** and is a Proposal that passes without Vote. 
+Its response has the header **KLARK'S PROPOSAL** and is a Proposal that passes immediately without Vote. 
 The first @Bookkeeper to interpret all changes and post "IP" in #bookkeeping gains 5 Peas. 
 
 A message in #proposals with the header "EMERGENCY PROPOSAL" and a @Player ping is an Emergency Proposal (EP) if it was posted after the previous EP was resolved. 
 It initiates a 12-hour period of Void Time where the only active clause is this paragraph. 
-When Void Time ends, if the EP has a ratio of 75👍/0👎 reactions, it passes. 
+When Void Time ends, if the EP has a ratio of at least 75👍/0👎 reactions, it passes. 
 Should a non-@Bookkeeper post an EP which does not pass, they cease to be a @Player. 
 
 
@@ -156,17 +159,18 @@ A Card follows the following format:
 A Card's number is 1 higher than the preceding card and the lowest is 1. 
 No two Cards have the same name. 
 
-During the VP, if a @Player states their intent to draw a Card in #plays, if they have 5 or fewer Cards, they lose 5 Peas, a random number from 1 to [the highest Card number] is generated, and the corresponding Card is added to their Hand. 
+During the VP, if a @Player states their intent to draw a Card in #plays, they lose 5 Peas, a random number from 1 to [the highest Card number] is generated, and the corresponding Card is added to their Hand. 
+If a Mutinee or Devotee have respectively 5 or 3 Cards, they cannot gain Cards. 
 If not all of a Card's effects are executed, none are. 
 If a Card's effect contradicts with a clause in the Ruleset, the Rules take precedence. 
 
 The Card Types are: 
 
 - **CONSUMABLE**: 
-During the VP, if a @Player states their intent in #plays to use [a Consumable Card in their Hand], the Card is removed from their hand and its effects are executed. 
+During the VP, if a @Player states their intent in #plays to "use" [a Consumable Card in their Hand], the Card is removed from their hand and its effects are executed. 
 
 - **REACTION**: 
-A Reaction is used like a Consumable, but in a reply to the use of a Consumable before its effects have resolved. 
+A Reaction is used like a Consumable, but in a reply to the use of a Consumable ("target Card") before its effects have resolved. 
 
 - **PASSIVE**: 
 The effect of a Passive Card is constantly active while in Hand. 
@@ -178,12 +182,13 @@ The effect of an Event Card is executed immediately when drawn, and the Card is 
 
 ### 7. CHURCH OF KLARK (COK)
 
-When a @Player Transfers Peas to Klark, they gain KC at a 1:1 exchange rate. 
-During the IP, a random Player gains 10 KC and another who has more than 0 loses up to 10 KC.
+When a @Player Transfers Peas to Klark, they gain Klark Coins at a 1:1 exchange rate. 
 During the PP, if a @Player states their intent in #plays to purchase a Klarkian Blessing they have not purchased this PP, they lose its required number of KC and its effects are executed. 
 
+**KLARKIAN BLESSINGS**: 
+
 - **Klarkian Grace** (5 KC): Gain 10 Peas. 
-- **Klarkian Wrath** (10 KC): A Player loses 10 Peas. 
+- **Klarkian Wrath** (10 KC): A Player of your choice loses 10 Peas. 
 - **Klarkian Gift** (15 KC): Draw a Card without losing Peas. 
 
 A Klarkian Blessing's price is divisible by 5. @Devotees get a 20% discount on Klarkian Blessings. 
@@ -209,9 +214,10 @@ Klark understands that this was an honest mistake and - since he still likes flo
 - Points are renamed to Peas. 
 - Ludvig 400, Magnus and Håkon get the (currently meaningless) titles Archangel, Prophet and Wizard, and the Prophet card is renamed Prophecy. 
 - R0 states what the game is. 
-- Bookkeepers win by 250 Peas (formerly Points), gain Peas by moderating the game correctly and are neither Devotee nor Mutinee. 
+- Bookkeepers win by 250 Peas, gain Peas by moderating the game correctly and are neither Devotee nor Mutinee. 
 - The SCHISM has prevented Klark from smelling the flowers and eating the rich. He copes by resorting to technology and turning himself into a cyborg. Klark is combined with the AI Copilot Rule. 
 - Trip Trap is a Play and requires only 2 Players taking a walk. 
+- Re-Elections are a Play. 
 - Card uses and draws are technically no longer Plays though still done in #play. 
 - Cards require a TYPE, being Consumable, Reaction, Passive or Event. 
 - Cards can only be drawn and used during the VP, but this can be done indefinitely. 
