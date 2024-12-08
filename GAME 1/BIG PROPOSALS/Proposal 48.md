@@ -13,7 +13,7 @@ PROPOSAL 48
 
 
 
-### 0. THE GAME 
+## 0. THE GAME 
 
 The Sunnfolk Nomic is a game of nomic as proposed by Peter Suber in 1982. 
 It is played by students at a folk high school. 
@@ -21,7 +21,7 @@ The game is tracked on GitHub and played in a Discord server.
 
 
 
-### 1. RULES (R)
+## 1. RULES (R)
 
 Each Rule is named with the following format: `[natural number]. [name]`. 
 Should a Rule contradict another, the Rule named with the lowest number takes precedence. 
@@ -50,7 +50,7 @@ __CONVENTIONS:__
 
 
 
-### 2. PLAYERS 
+## 2. PLAYERS 
 Klark is a @Player /who likes flowers and HATES the rich/. 
 A @Player meets the following criteria: 
 - Is a @Mutinee or @Devotee, unless they are Klark or a @Bookkeeper. 
@@ -62,7 +62,7 @@ A @Player's Peas and KC balance are whole numbers and initially 0.
 
 
 
-### 3. WINNING 
+## 3. WINNING 
 A @Mutinee wins when they reach 100 Peas. 
 A @Bookkeeper wins when they reach 250 Peas. 
 @Devotees win when Klark reaches 500 Peas. 
@@ -70,7 +70,7 @@ If no winner(s) is/are determined within December 24., the game ends.
 
 
 
-### 4. BOOKKEEPING 
+## 4. BOOKKEEPING 
 
 A clause is true when a @Bookkeeper interprets it. 
 All means of changing the Rules are defined within this Rule. 
@@ -120,7 +120,7 @@ Should a non-@Bookkeeper post an EP which does not pass, they cease to be a @Pla
 
 
 
-### 5. PLAYS 
+## 5. PLAYS 
 
 When a @Player states their intent in #plays to perform one of the Plays listed below, which they have not performed this Phase, its effects are executed. 
 If not all of its effects are executed, none are. 
@@ -146,7 +146,7 @@ Document yourself and one or more @Players taking a walk outside with a picture 
 
 
 
-### 6. DECK OF CARDS
+## 6. DECK OF CARDS
 
 The Deck contains a list of Cards. 
 A @Player's Hand is a list of Card names below their name in #players. 
@@ -181,7 +181,7 @@ The effect of an Event Card is executed immediately when drawn, and the Card is 
 
 
 
-### 7. CHURCH OF KLARK (COK)
+## 7. CHURCH OF KLARK (COK)
 
 When a @Player Transfers Peas to Klark, they gain Klark Coins at a 1:1 exchange rate. 
 During the PP, if a @Player states their intent in #plays to purchase a Klarkian Blessing they have not purchased this PP, they lose its required number of KC and its effects are executed. 
