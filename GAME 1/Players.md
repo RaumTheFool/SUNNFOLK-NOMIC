@@ -5,19 +5,19 @@
 
 ### BOOKKEEPERS
 
-Håkon / 10 / Curbstomp, Third Hand, Wet Egg, Peep the Horror, Grab-O-Matic
+Håkon / 10 / Curbstomp, Third Hand, Wet Egg, Peep the Horror 
 
-Leon / 5 / 10kr, Jackpot 7s
+Leon / 10 / 10kr, Jackpot 7s
 
 
 ### KLARK
 
-Klark / 45
+Klark / 45 
 
 
 ### DEVOTEES 
 
-Magnus / 15 - 25 / Bouquet, Curbstomp, Strike, Piece of Exodia, Prophecy 
+Magnus / 30 - 25 / Klark's Agenda, 10kr
 
 May / 10 / Klark's Delight, The Plague
 
@@ -25,14 +25,14 @@ Maya / 20 /
 
 Runa / 0 / Third Hand 
 
-Sigve / 25
+Sigve / 10 / Prophecy, Strike, Horned Skull 
 
 
 ### MUTINEES 
 
 Ask / 0 / Negative Prism, Third Hand
 
-Ludvig 400 / 30 / Third Hand, Bouquet, Smack 
+Ludvig 400 / 20 / Third Hand, Bouquet, Smack 
 
 Ludvig 1000 / 35
 
