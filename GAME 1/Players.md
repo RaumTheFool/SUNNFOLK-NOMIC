@@ -41,6 +41,8 @@ Yuno / 0 / The Gambler's Crown
 
 ### INDECISIVES 
 
+*These people are not Players as they have yet to choose between Mutiny and Devotion.*
+
 Anna / 20
 
 Anja / 25
