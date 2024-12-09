@@ -68,8 +68,8 @@ CONSUMABLE: Roll a random number between 1 and 3. If it’s a one, destroy this 
 
 33. Klark's Victory: CONSUMABLE: Klark gains 9999999 (a lot of) Peas.
 
-34. End of an Era: Klark may never win.
+34. End of an Era: PASSIVE: Klark may never win.
 
-35. Rebel's Union: If a Klark Mutinee wins, every Klark Mutinee wins.
+35. Rebel's Union: CONSUMABLE: If a Klark Mutinee wins, every Klark Mutinee wins. (USELESS!!!)
 
 36. 
