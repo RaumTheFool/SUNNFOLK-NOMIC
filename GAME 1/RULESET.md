@@ -1,146 +1,183 @@
 # SUNNFOLK NOMIC 1st RULESET 
 
 
-### 1. RULES (R)
+## 0. THE GAME 
+
+The Sunnfolk Nomic is a game of nomic as proposed by Peter Suber in 1982. 
+It is played by students at a folk high school. 
+The game is tracked on GitHub and played in a Discord server. 
+
+
+
+## 1. RULES (R)
 
 Each Rule is named with the following format: `[natural number]. [name]`. 
 Should a Rule contradict another, the Rule named with the lowest number takes precedence. 
 No two Rules have the same number or name. 
 
+__DEFINITIONS:__
+- **Definition**: Required way to interpret Rules. 
+- **Convention**: Encouraged way to write Rules. 
+- **Interpret**: Implement a game change. 
+- **Resolve**: Be interpreted. 
+- **Amend**: Change Rules. 
+- **Append**: Add to end. 
+- **Insert**: Add to list, pushing the following points forward. 
+- **Clause**: Subset of Ruleset. 
+- **Redundant**: Unnecessary as already stated. 
+- **Contradiction**: Two clauses that are simultaneously legal and illegal. 
+- **Precedent**: More important in a contradiction, aka. "trump".
+
+__CONVENTIONS:__ 
 - Text in (parentheses) provides an abbreviation. 
-- Text in \*italics* describes an event. 
-- Text in /slash brackets/ has no legal effect. 
+- Text in \*italics* describes an event or game change. 
+- Text in /slash brackets/ is flair and has no legal effect. 
 - Text in \`\`\`code blocks\`\`\`/\`code blocks` provides a format or quote. 
 - Text in [square brackets] is a placeholder.
+- Text in **bold** refers to a header. 
 
 
-### 2. PLAYERS AND POINTS
 
-A Player is someone who consents to being a Player and is recorded in #players along with their Point balance. 
+## 2. PLAYERS 
+Klark is a @Player /who likes flowers and HATES the rich/. 
+A @Player meets the following criteria: 
+- Is a @Mutinee or @Devotee, unless they are Klark or a @Bookkeeper. 
+- Is recorded in #players. 
+- Has a Pea balance in #players. 
+- Has a Klark Coin (KC) balance in #players. 
 
-A Player's Point balance is a whole number, initially 0. 
-The first Player to reach 200 Points wins the game. 
-Klark needs 500 Points to win. 
-Klark Mutinees need 100 Points to win. 
-Klark Devotees win if klark wins, and cannot win any other way.
-
-
-### 3. BOOKKEEPERS AND ELECTIONS 
-
-A @Bookkeeper enforces the Rules. 
-From the moment a Player calls for an Election in #play, Players have 12 hours to reply to it with the name of one Player. 
-Given their explicit consent, the Player whose name was iterated most frequently through this process becomes the new @Bookkeeper and the former loses said role. 
-Should a @Bookkeeper meet the win condition per Rule "PLAYERS AND POINTS", they do not win. 
+A @Player's Peas and KC balance are whole numbers and initially 0. 
 
 
-### 4. PROPOSALS (P)
 
-The game alternates between three Phases: 
+## 3. WINNING 
+A @Mutinee wins when they reach 100 Peas. 
+A @Bookkeeper wins when they reach 250 Peas. 
+@Devotees win when Klark reaches 500 Peas. 
+If no winner(s) is/are determined within December 24., the game ends. 
+
+
+
+## 4. BOOKKEEPING 
+
+A clause is true when a @Bookkeeper interprets it. 
+All means of changing the Rules are defined within this Rule. 
+
+The game cycles through three Phases: 
 1. The Proposal Phase (PP), 
 2. The Voting Phase (VP), and 
 3. The Interpretation Phase (IP) 
 
-Each Phase begins at 07:00 and ends at 23:00. The game is paused in-between Phases, which is called Void Time. 
+Each Phase begins at 07:00 and ends at 23:00. 
+Void Time is a period without a Phase, during which the Rules are inactive unless stated otherwise. 
 
 - **THE PROPOSAL PHASE**: 
-An unedited message posted in #proposals during the PP, following the format below, is a Proposal;
+
+The first @Bookkeeper to post "PP" in #bookkeeping gains 5 Peas. 
+A message which is posted in #proposals during the PP and not edited outside the PP, following the format below, is a Proposal;
 ```
 PROPOSAL [natural number]
 
-[Changes described here are applied to the game.]
+[effects]
 ```
-A Proposal's number is 1 higher than the one preceding it. 
-An edited message is considered a Proposal if Bookkeepers deem it to have been edited in good faith.
+A Proposal's number is 1 higher than the one preceding it, initially 1. 
 
 - **THE VOTING PHASE**: 
+
+The first @Bookkeeper to post "VP" in #bookkeeping gains 5 Peas. 
 A :thumbsup: or :thumbsdown: reaction on a Proposal is a Vote. 
 
 - **THE INTERPRETATION PHASE**: 
-When checked by a @Bookkeeper during the IP, if a Proposal from the last PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 5 Points.
-Proposals that affect Klark primarily, or that directly mention Klark, require a ratio of 75👍/25👎 or more to pass.
 
-
-### 5. DECK OF CARDS 
-
-The Deck contains a list of Cards. 
-A Card follows the following format: 
+If a Proposal from the previous PP has more :thumbsup: than :thumbsdown: Votes, it passes and its poster gains 10 Peas. 
+Proposals that mention Klark require a ratio of 75👍/25👎 or more to pass. 
+A random Player gains 10 Klark Coins and another who has more than 0 loses up to 10 Klark Coins.
+A @Bookkeeper provides their ChatGPT with the following prompt: 
 ```
-[natural number]. [name]
-/description of effects/
+Follow the Rules, assume the role of Klark and write a Proposal per R **BOOKKEEPING**; 
+
+[The Ruleset] 
 ```
- 
-A Card's number is 1 higher than the preceding card and the lowest is 1. 
-No two Cards have the same name. 
+Its response has the header **KLARK'S PROPOSAL** and is a Proposal that passes immediately without Vote. 
+The first @Bookkeeper to interpret all changes and post "IP" in #bookkeeping gains 5 Peas. 
 
-Players cannot gain more Cards if they have reached their max hand size
-All players have a max hand size of 5. Klark Devotees have a max hand size of 3.
+A message in #proposals with the header "EMERGENCY PROPOSAL" and a @Player ping is an Emergency Proposal (EP) if it was posted after the previous EP was resolved. 
+It initiates a 12-hour period of Void Time where the only active clause is this paragraph. 
+When Void Time ends, if the EP has a ratio of at least 75👍/0👎 reactions, it passes. 
+Should a non-@Bookkeeper post an EP which does not pass, they cease to be a @Player. 
 
-If a Klark Mutinee has one or more cards held in hand with Klark in the title, they lose those cards and gain 10 points per card lost. If they draw a card with Klark in the title, they do not obtain it and may roll again for free.
 
 
-### 6. PLAYS AND HANDS
+## 5. PLAYS 
 
-When a Player states their intent in #play to perform one of the Plays listed below during a Phase, which they have performed 0 times this Phase, the Play's effects are executed. 
-Should not all of its effects be executed, none are. 
-If a Play's effect contradicts the effect of a Card it interacts with, the Card takes precedence. 
-A Player's Hand is a list of Cards below their name in #players. 
-
-- **Draw Card**: 
-Lose 5 Points. 
-A natural number from 1 to [the number of the highest numbered Card] is randomly generated. 
-The corresponding Card's name is added to your Hand.
-This cannot be done if you have less than 5 points.
-Klark Mutinees gain the opportunity to perform an additional draw, still costing 5 points, if their previous card was played to affect Klark.
-
-- **Use Card**: 
-Specify a Card in your Hand. 
-That Card's effect, as described in the Deck, is fulfilled, and it is removed from your Hand. 
+When a @Player states their intent in #plays to perform one of the Plays listed below, which they have not performed this Phase, its effects are executed. 
+If not all of its effects are executed, none are. 
 
 - **Transfer**: 
-Specify a number of Points or Cards in your Hand, which you lose and a player of your choice receives.
+Specify a number of Peas and/or Cards in your Hand, which you lose and a @Player of your choice receives.
 
 - **Transact**: 
-Specify a number of Points and/or Cards you wish to sell from your Hand, or buy from another Player's Hand. If, within the current Phase, another Player has responded by specifying a number of Points and/or Cards in their Hand, and you have consented to the Transaction, 
+Specify a number of Peas and/or Cards you wish to sell from your Hand, or buy from another @Player's Hand. 
+If, within the current Phase, another @Player has responded by specifying a number of Points and/or Cards in their Hand, and you have consented to the Transaction, 
 \- You receive, and they lose, what they specified, and 
 \- They receive, and you lose, what you specified. 
 
+- **Re-Elect**: 
+A message in #actions naming one or more @Bookkeepers and calling for a Re-Election, is a Re-Election. 
+A 24-hour period of Void Time is initiated, during which the only active clause is this paragraph. 
+A reply to a Re-Election with a number of @Player names equal to the number of @Bookkeepers mentioned is a Vote for the named @Players. 
+When Void Time ends, the @Players with the most Votes replace the mentioned @Bookkeepers. 
+If a @Bookkeeper does not state their choice between @Mutinee and @Devotee before they are replaced, they cease to be a @Player. 
 
-### 7. KLARK 
+- **Trip Trap**: 
+Document yourself and one or more @Players taking a walk outside with a picture and their names. Each mentioned @Player gains 5 Peas. 
 
-Klark is a Player. /He likes flowers and HATES the rich./ 
-Every IP, the Player with the fewest Points gains 10 and the Player with the most loses 10. 
-Ties are resolved randomly.
 
-Every player has a Klark Affection (KA) score that starts at 0. 
-If you give Points to Klark his affection for you increases. 1 Point = 1 KA.
-At the end of the game, 1 random Player with the highest KA score marries Klark. <3 
-Simultaneously, 1 random Player with the lowest KA score becomes Klark's nemesis. 
 
-### 8. TRIP TRAP
+## 6. DECK OF CARDS
 
-If you document yourself and two or more players taking a walk outside with a picture, all of you earn five points each. 
-The picture must be posted in the play chat along with the names of the players who went along on the trip. 
-This counts as a play. A player can only claim five points per day from this play.
+The Deck contains a list of Cards. 
+A @Player's Hand is a list of Card names below their name in #players. 
+A Card follows the following format: 
+```
+[natural number]. [name] 
+[TYPE]
+[effects]
+```
+A Card's number is 1 higher than the preceding card and the lowest is 1. 
+No two Cards have the same name. 
 
-### 9. A.I. COPILOT
-At the end of every second IP: the current rules will be shown to chatgpt, whom will be asked to make a suggestion for a rule to be added. This rule will come to pass without a vote.
+During the VP, if a @Player states their intent to "draw a Card" in #plays, they lose 5 Peas, a random number from 1 to [the highest Card number] is generated, and the corresponding Card is added to their Hand. 
+During the VP, if a @Player states their intent to "discard" a Card from their Hand, it is removed from their Hand. 
+If a Mutinee, Bookkeeper or Devotee has respectively 5, 4 or 3 Cards, they cannot gain Cards. 
+If not all of a Card's effects are executed, none are. 
+If a Card's effect contradicts with a clause in the Ruleset, the Rules take precedence. 
 
-### 10. THE KLARK ECONOMY (TKE)
+The Card Types are: 
 
-Klark's influence on the game expands to include his own economy. 
+- **CONSUMABLE**: 
+During the VP, if a @Player states their intent in #plays to "use" [a Consumable Card in their Hand], the Card is removed from their hand and its effects are executed. 
 
-- KLARK CURRENCY (KC): Klark introduces his own currency, *Klark Coin* (KC). Players may acquire KC by donating Points to Klark at a 1:1 exchange rate. KC is tracked separately from Points in #players. 
+- **REACTION**: 
+A Reaction is used like a Consumable, but in a reply to the use of a Consumable ("target Card") before its effects have resolved. 
 
-- SPENDING KC: 
-Players may spend KC during the Proposal Phase (PP) for special effects: 
-  - **Klark’s Blessing** (5 KC): Gain 10 Points. 
-  - **Klark's Wrath** (10 KC): Select a Player; they lose 10 Points. 
-  - **Klark's Gift** (15 KC): Draw a Card from the Deck without losing Points. 
+- **PASSIVE**: 
+The effect of a Passive Card is constantly active while in Hand. 
 
-- KLARK DEVOTEES:
-Klark Devotees receive a 20% discount on all KC purchases but cannot gain Points by spending KC.
+- **EVENT**: 
+The effect of an Event Card is executed immediately when drawn, and the Card is not added to one's Hand. 
 
-- BALANCE AND CHAOS:
-At the end of each Interpretation Phase (IP), Klark randomly gives 1-10 KC to one Player and takes 1-10 KC from another.
 
-With this Rule, Klark becomes a central figure in the economy, encouraging strategic alliances and rivalries.
+
+## 7. CHURCH OF KLARK (COK)
+
+When a @Player Transfers Peas to Klark, they gain Klark Coins at a 1:1 exchange rate. 
+During the PP, if a @Player states their intent in #plays to purchase a Klarkian Blessing they have not purchased this PP, they lose its required number of KC and its effects are executed. 
+
+**KLARKIAN BLESSINGS**: 
+
+- **Klarkian Grace** (5 KC): Gain 10 Peas. 
+- **Klarkian Wrath** (10 KC): A Player of your choice loses 10 Peas. 
+- **Klarkian Gift** (15 KC): Draw a Card without losing Peas. 
+
+A Klarkian Blessing's price is divisible by 5. @Devotees get a 20% discount on Klarkian Blessings. 
