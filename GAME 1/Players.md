@@ -23,7 +23,7 @@ May / 10 / Klark's Delight, The Plague
 
 Maya / 20 / 
 
-Runa / 0 / Third Hand 
+Runa / 0 / Third Hand, Self Destruct Button 
 
 Sigve / 10 / Prophecy, Strike, Horned Skull 
 
