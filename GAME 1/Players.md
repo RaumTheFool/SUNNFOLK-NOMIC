@@ -17,9 +17,9 @@ Klark / 45
 
 ### DEVOTEES 
 
-Magnus / 35 - 25 / Bouquet 
+Magnus / 15 - 25 / Bouquet, Curbstomp, Strike, Piece of Exodia, Prophecy 
 
-May / 10 / Klark's Delight, The Plague, Prophecy
+May / 10 / Klark's Delight, The Plague
 
 Maya / 20 / 
 
@@ -30,13 +30,13 @@ Sigve / 25
 
 ### MUTINEES 
 
-Ask / 20 / Bouquet, Negative Prism 
+Ask / 0 / Negative Prism, Third Hand
 
 Ludvig 400 / 30 / Third Hand, Bouquet, Smack 
 
 Ludvig 1000 / 35
 
-Yuno / 10 / The Gambler's Crown 
+Yuno / 0 / The Gambler's Crown 
 
 
 ### INDECISIVES 
