@@ -72,4 +72,4 @@ CONSUMABLE: Roll a random number between 1 and 3. If it’s a one, destroy this 
 
 36. Rebel's Union: CONSUMABLE: If a Klark Mutinee wins, every Klark Mutinee wins. (USELESS!!!)
 
-37. 
+37. Rewrite History: EVENT: Amend Rule 2. Winning. It now says "Klark and @Devotees win as long as Klark has at least 0 peas, other types of Players cannot win the game"
