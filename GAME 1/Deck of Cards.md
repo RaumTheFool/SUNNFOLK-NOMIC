@@ -66,4 +66,10 @@ CONSUMABLE: Roll a random number between 1 and 3. If it’s a one, destroy this 
 
 32. AI Whoopsiedoodle: CONSUMABLE: Instigate the effect of the "AI Copilot" Rule. 
 
-33. Klark's Victory: CONSUMABLE: Klark gains 9999999 (a lot of) Peas. 
+33. Klark's Victory: CONSUMABLE: Klark gains 9999999 (a lot of) Peas.
+
+34. End of an Era: Klark may never win.
+
+35. Rebel's Union: If a Klark Mutinee wins, every Klark Mutinee wins.
+
+36. 
