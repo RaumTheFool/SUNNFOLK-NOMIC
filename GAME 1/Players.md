@@ -7,7 +7,7 @@
 
 Håkon / 10 / Curbstomp, Third Hand, Wet Egg, Peep the Horror 
 
-Leon / 10 / 10kr, Jackpot 7s, Grab-O-Matic, Cheese
+Leon / 15 / 10kr, Jackpot 7s, Grab-O-Matic, Cheese
 
 
 ### KLARK
