@@ -74,6 +74,7 @@ Void Time is a period without a Phase, during which the Rules are inactive unles
 - **THE PROPOSAL PHASE**: 
 
 The first @Bookkeeper to post "PP" in #bookkeeping gains 5 Peas. 
+During the PP, the first @ Player to Transfer at least 10 Peas to Klark in ⁠plays gains 5 Klark Coins. This action can only be performed once per PP.
 A message which is posted in #proposals during the PP and not edited outside the PP, following the format below, is a Proposal;
 ```
 PROPOSAL [natural number]
