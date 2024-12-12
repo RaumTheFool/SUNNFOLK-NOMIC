@@ -12,16 +12,16 @@ Leon / 15 / 10kr, Jackpot 7s, Grab-O-Matic, Cheese
 
 ### KLARK
 
-Klark / 45 
+Klark / 35 
 
 
 ### DEVOTEES 
 
-Magnus / 30 - 25 / Klark's Agenda, 10kr
+Magnus / 0 - 25 / Klark's Delight, 5kr, Butter Bean
 
-May / 10 / Klark's Delight, The Plague
+May / 10 / Klark's Delight, The Plague, Rewrite History
 
-Maya / 20 / 
+Maya / 20 / 10kr, Jackpot 7s, Turnip 
 
 Runa / 0 / Third Hand, Self Destruct Button 
 
