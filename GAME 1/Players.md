@@ -1,6 +1,6 @@
 ## PLAYERS
 
-[Player] / [Points] - [Klark Affection] / [Hand (Card, Card ...)]
+[Player] / [Points] - [Klark Coins] - [Klark Affection] / [Hand (Card, Card ...)]
 
 
 ### BOOKKEEPERS
@@ -17,7 +17,7 @@ Klark / 35
 
 ### DEVOTEES 
 
-Magnus / 0 - 25 / Klark's Delight, 5kr
+Magnus / 0 - 0 - 25 / Klark's Delight, 5kr
 
 May / 10 / Klark's Delight, The Plague, Rewrite History
 
@@ -34,7 +34,7 @@ Ask / 0 / Negative Prism, Third Hand
 
 Ludvig 400 / 20 / Third Hand, Bouquet, Smack 
 
-Ludvig 1000 / 35
+Ludvig 1000 / 35 - 10 / 
 
 Yuno / 0 / The Gambler's Crown 
 
