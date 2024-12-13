@@ -182,3 +182,12 @@ During the PP, if a @Player states their intent in #plays to purchase a Klarkian
 - **Klarkian Gift** (15 KC): Draw a Card without losing Peas. 
 
 A Klarkian Blessing's price is divisible by 5. @Devotees get a 20% discount on Klarkian Blessings. 
+
+## 8. KLARK AFFECTION 
+
+Every @Player has a Klark Affection (KA) score that starts at 0. 
+
+If you give Peas to Klark, your KA increases. 1 Pea = 1 KA.
+
+At the end of the game, the @Player with the highest KA score marries Klark. <3 
+The @Player with the lowest becomes Klark's nemesis. 
