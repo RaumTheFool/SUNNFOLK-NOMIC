@@ -1,6 +1,6 @@
   --//DEN VESLE BOKEN\\--
 
-Rarity = value (Gronks)
+-Rarity = value (Gronks)
 
   Common = 10
   
