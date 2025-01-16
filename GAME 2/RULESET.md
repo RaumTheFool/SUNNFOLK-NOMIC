@@ -37,6 +37,7 @@
   -Heng et bilde av degselv opp utenfor skoleområdet.
 
 *LEGENDARY*
+
   -Fremvis et objekt knabbet fra en spillers lomme i hemmelighet.
 
 *MYTHICAL*
