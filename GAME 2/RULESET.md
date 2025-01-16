@@ -1,6 +1,6 @@
 1. Kun under valgfaget (20:00-21:30 på torsdager) kan reglene endres.
 
-2. Kronk = King.
+2. Kronk = King, Klaus = forrederen.
 
 3. Når en ny regel eller endring  blir foreslått, må alle sammen stemme om den foreslåtte regelen skal bli implimentert, flertallet bestemmer. Man kan ikke gjøre endring uten å foreslå det slik.
 
