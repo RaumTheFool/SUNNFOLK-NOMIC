@@ -1,45 +1,13 @@
-  --//DEN VESLE BOKEN\\--
+1. Kun under valgfaget (20:00-21:30 på torsdager) kan reglene endres.
 
--Rarity = value (Gronks)
+2. Kronk = King.
 
-  Common = 10
-  
-  Rare = 25
-  
-  Epic = 50
-  
-  Legendary = 100
+3. Når en ny regel eller endring  blir foreslått, må alle sammen stemme om den foreslåtte regelen skal bli implimentert, flertallet bestemmer. Man kan ikke gjøre endring uten å foreslå det slik.
 
-*COMMON*
+4. Alle endringer må implimenteres før en ny avstemning starter.
 
-  -Gå til joker'n.
-  
-  -Ta sefie m/Clive.
-  
-  -Få en u-spiller/-kjæreste til å mate deg.
+5. Alle spillere er skrevet opp på *HÅKONS LISTE*. På starten av valgfaget tømmes den. Man blir en spiller ved å skrive sitt navn på *HÅKONS LISTE* før valgfaget er oer, og forblir en spiller  til starten av neste times økt.
 
-*RARE*
+6. For å bli en spiller for første gang, må de som allerede har gjort dette før, stemme med positiv flertall over det.
 
-  -Kjøpe noe for en spiller på Joker (spander!) (de må godta!).
-  
-  -Bånnski: mest vann på video i kantina. 
-  
-  -Kom tidsnok til hver morgensamling siden mandag.
-
-*EPIC*
-
-  -Rull en nat. 20 (1 forsøk per økt)
-  
-  -Lag den høyeste snømannen.
-  
-  -Vinn stirrekonkuranse mot en spiller.
-  
-  -Heng et bilde av degselv opp utenfor skoleområdet.
-
-*LEGENDARY*
-
-  -Fremvis et objekt knabbet fra en spillers lomme i hemmelighet.
-
-*MYTHICAL*
-
-  -Ta på et villsvin.
+7. Når dagens spillere er registrert, tar de turer til å fremlegge dokumentasjon / bekreftelse av andre spillere ("vitner") på at en + aktivitet beskrevet i den vesle boken er gjennomført. Dersom Bevismaterealet godkjennes av majoriteten tjener gjeldende spiller det passende anntal gronker IFLG. D.V.B.. Den med flest gronker får så ukens gronkjuvel, og mister alle sine gronker. Resten av spillerene kan deretter bruke sine gronker på å kjøpe items fra kronksjappa. Ens gronker er et heltall og blir omgjort til 0 ved slutten av valgfaget.
