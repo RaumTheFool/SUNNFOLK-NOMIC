@@ -14,27 +14,27 @@ Mythic     =  001 Gronkjewel
 
 ### Common 
 
-- Gå til joker'n.
-- Ta sefie m/ Clive.
-- Få en u-spiller/-kjæreste til å mate deg.
+- Go to Joker.
+- Take a selfie w/ Clive.
+- Get a non-player/-partner to feed you. 
 
 ### Rare 
 
-- Kjøpe noe for en spiller på Joker (spander!) (de må godta!).
-- Bånnski mest vann på video i kantina. 
-- Kom tidsnok til hver morgensamling siden mandag. 
+- Have a player accept a gift you bought from Joker.
+- Chug the most water on video in MATSALEN. 
+- Be on time for every morning assembly since monday. 
 
 ### Epic 
 
-- Rull en nat. 20 (1 forsøk per økt). 
-- Lag den høyeste snømannen.
-- Vinn stirrekonkuranse mot en spiller.
-- Heng et bilde av degselv opp utenfor skoleområdet.
+- Roll a nat. 20 (1 try per sesh). 
+- Build the tallest snowman.
+- Win a staring contest against another player. 
+- Hang up a picture of yourself outside the school area. 
 
 ### Legendary 
 
-- Fremvis et objekt knabbet fra en spillers lomme i hemmelighet. 
+- Show an object you pickpocketed from another player. 
 
 ### Mythical 
 
-- Ta på et villsvin.
+- Touch a wild boar. 
