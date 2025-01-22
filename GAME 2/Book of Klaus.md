@@ -10,7 +10,7 @@ Legendary  =  100 Glaus
 Mythic     =  001 Glausjewel 
 ```
 
-## Actions 
+## Badnesses  
 
 ### Common 
 
