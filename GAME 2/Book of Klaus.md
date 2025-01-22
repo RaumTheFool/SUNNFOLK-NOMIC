@@ -14,7 +14,7 @@ Mythic     =  001 Glausjewel
 
 ### Common 
 
-- Come to nomic class more than 5 minutes, and less than 1.5 hours, late. 
+- Join a nomic session more than 5 minutes, and less than 1.5 hours, late. 
 
 ### Rare 
 
