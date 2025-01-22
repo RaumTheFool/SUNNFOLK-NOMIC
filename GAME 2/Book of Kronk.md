@@ -1,14 +1,14 @@
-# The Little Book of Kronk 
+# The Little Book of Kronkian Goodness 
 
-## Value  
+## Values 
 
-- Common = 10 Gronks 
-- Rare = 25 Gronks 
-- Epic = 50 Gronks 
-- Legendary = 100 Gronks
-- Mythic = 1 Gronkjewel 
+Common     =  010 Gronk 
+Rare       =  025 Gronk 
+Epic       =  050 Gronk
+Legendary  =  100 Gronk 
+Mythic     =  001 Gronkjewel 
 
-## Actions 
+## Goodnesses 
 
 ### Common 
 
