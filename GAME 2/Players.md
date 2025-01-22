@@ -2,18 +2,18 @@
 
 ## Active 
 
-### Leon 
+- ### Leon 
 `Gronkjewels: 1`
-### Håkon 
-### Aron 
-### Ask 
-### Helge
-### Magnus 
-### Luna 
-### Yuno 
+- ### Håkon 
+- ### Aron 
+- ### Ask 
+- ### Helge
+- ### Magnus 
+- ### Luna 
+- ### Yuno 
 
 ## Inactive 
 
-### Klark 
+- ### Klark 
 
 --MORE CAN JOIN W/O BEING IN ELECTIVE!!--
