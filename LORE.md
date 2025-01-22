@@ -41,7 +41,7 @@
 - Despite having no plan, the game is bustling from day one.
 - Aron declares Kronk as King, thus becoming the Chamberlain.
 - King Kronk has a currency called Gronks, and a book that allows players to gain Gronks by performing and documenting actions.
-- Mutinee Ask the Bastion coins this "Den Vesle Boken". 
+- Mutinee Ask the Bastion coins this book "Den Vesle Boken". 
 
 ### 2. THE LITTLE BOOK OF KLARKIAN BADNESS 
 - Aron declares Klaus as Traitor and gives him a book of blunders that grant negative currency; Glauses. 
