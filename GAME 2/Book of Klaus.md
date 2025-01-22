@@ -1,12 +1,14 @@
 # The Little Book of Klausian Badness
 
-## Value  
+## Values  
 
-- Common = 10 Glaus 
-- Rare = 25 Glaus 
-- Epic = 50 Glaus
-- Legendary = 100 Glaus 
-- Mythic = 1 Glausjewel 
+```
+Common     =  010 Glaus 
+Rare       =  025 Glaus 
+Epic       =  050 Glaus
+Legendary  =  100 Glaus 
+Mythic     =  001 Glausjewel 
+```
 
 ## Actions 
 
