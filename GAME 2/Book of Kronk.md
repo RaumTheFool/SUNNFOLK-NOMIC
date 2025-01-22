@@ -14,7 +14,7 @@ Mythic     =  001 Gronkjewel
 
 ### Common 
 
-- Go to Joker.
+- Walk to Joker.
 - Take a selfie w/ Clive.
 - Get a non-player/-partner to feed you. 
 
