@@ -2,11 +2,13 @@
 
 ## Values 
 
+```
 Common     =  010 Gronk 
 Rare       =  025 Gronk 
 Epic       =  050 Gronk
 Legendary  =  100 Gronk 
-Mythic     =  001 Gronkjewel 
+Mythic     =  001 Gronkjewel
+```
 
 ## Goodnesses 
 
