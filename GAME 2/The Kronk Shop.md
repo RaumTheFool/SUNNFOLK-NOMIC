@@ -7,10 +7,10 @@
 
 ## Consumables 
 
-### 10: Reroll 
-- Reroll a d20. 
+### 10: d40 
+- Reroll the d20. 
 
-### 25: Duelist's Glove 
+### 25: Duelling Glove 
 - Choose a player that must accept a competition invitation. Bets are decided before the competition is revealed. 
 
 ### 40: Frank's Follicle 
