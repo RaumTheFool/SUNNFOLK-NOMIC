@@ -1,4 +1,4 @@
-### REGLER 
+# REGLER À LA SFN2
 
 ## 0. FUNDAMENT 
 SFN2 spilles gjennom valgfaget Nomic på Sunnhordland FHS, under andre semester av skoleåret 2024-2025. <br>
@@ -66,7 +66,7 @@ Spillerne bruker enda en slik runde til å kunngjøre hvordan de ønsker å bruk
 ### 1.4 MATLAGING 
 Den siste runden bruker individer til å påstå klausuler i reglene. 
 
-### ~~~ shiet som skal endres ~~~
+## ~~~ shiet som skal endres ~~~
 
 dueller, konkurranser, vedding. bånnski mest vann. 
 
