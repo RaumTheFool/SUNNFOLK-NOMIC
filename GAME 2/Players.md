@@ -3,12 +3,13 @@
 ## Active 
 
 - ### Leon 
-`Gronkjewels: 1`
+`GrJ: 1`
 - ### Håkon 
 - ### Aron 
 - ### Ask 
 - ### Helge
-- ### Magnus 
+- ### Magnus
+`GrJ: 1`
 - ### Luna 
 - ### Yuno 
 
