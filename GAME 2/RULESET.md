@@ -66,11 +66,30 @@ Spillerne bruker enda en slik runde til å kunngjøre hvordan de ønsker å bruk
 ### 1.4 MATLAGING 
 Den siste runden bruker individer til å påstå klausuler i reglene. 
 
-## ~~~ shiet som skal endres ~~~
+## ~~~ misc ~~~
 
 dueller, konkurranser, vedding. bånnski mest vann. 
 
-en endring av spillets gamestate skjer platonisk kun umiddelbart når den har blitt stemt over. 
-dueling glove kan bare 1 per challenge. 
-den som har ordet kan også velge. 
-vi bruker samme template som kort fra game 1. 
+en endring av spillets gamestate skjer platonisk kun umiddelbart når den har blitt stemt over. / 
+dueling glove kan bare 1 per challenge. / 
+den som har ordet kan også velge. / 
+vi bruker samme template som kort fra game 1. / 
+
+gave premie. / 
+klaus egen runde? /
+definere muggles. /
+miste gr og gl. /
+gigapenge. / 
+
+d6. / 
+20 Gl Lærepenge. /
+10 Gl "Vi skal vrenge deg"-prank. /
+common goodness ta med snacks. /
+common dra på svømmetur og fremvis et objekt fra havbunnen. /
+common: 4/dag. rare: 3/uke. epic: 2/uke. legendary: 1/uken. / 
+forrige individuelle meta sesh. / 
+item og person pool epic. / 
+
+
+
+
