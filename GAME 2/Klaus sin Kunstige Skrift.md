@@ -7,10 +7,10 @@ Common     =  010 Glaus
 Rare       =  025 Glaus 
 Epic       =  050 Glaus
 Legendary  =  100 Glaus 
-Mythic     =  001 Glausjewel 
+Mythic     =  001 GlausJuvel 
 ```
 
-## Slemheter  
+## Slemheter/Badnesses
 
 ### Common 
 
